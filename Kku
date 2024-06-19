@@ -52,7 +52,7 @@ public class kku{
     kku n = new kku();
     n.setId("6533800169-7");
     n.setName("Natwarawit");
-    n.setClassroom("9228");
+    n.setClassroom("9229");
     n.show();
     }
 }
